@@ -1,7 +1,3 @@
-Berikut README untuk repositori GitHub yang berisi skrip `encoder.py`:  
-
----
-
 # Encoder-Decoder (Caesar Cipher)
 
 Skrip Python sederhana untuk mengenkripsi dan mendekripsi teks menggunakan metode **Caesar Cipher**.
