@@ -1,35 +1,29 @@
-# Encoder-Decoder (Caesar Cipher)
+# **Project-Python** 🚀🐍  
 
-Skrip Python sederhana untuk mengenkripsi dan mendekripsi teks menggunakan metode **Caesar Cipher**.
+**Project-Python** is a repository containing various Python projects I have created. Currently, it includes simple scripts focused on security and encryption, but more projects will be added in the future.  
 
-## 🚀 Fitur
-- **Encode**: Mengubah teks dengan pergeseran (shift) tertentu.
-- **Decode**: Mengembalikan teks yang telah dienkripsi ke bentuk aslinya.
-- **Dukungan Huruf Kapital & Kecil**: Tetap mempertahankan huruf besar/kecil saat mengenkripsi dan mendekripsi.
-- **Dukungan Karakter Non-Alfabet**: Karakter selain huruf tetap dipertahankan tanpa perubahan.
+## **📂 Project List**  
 
-## 🛠️ Cara Penggunaan
-1. **Pastikan Anda memiliki Python terinstal** (versi 3.x direkomendasikan).
-2. **Jalankan skrip** menggunakan terminal atau command prompt:
+### **🔹 Security & Encryption**  
+- **🔐 Caesar Cipher Encoder-Decoder**  
+  A script for encrypting and decrypting text using the Caesar Cipher method with character shifting.  
 
-   ```sh
-   python encoder.py
-   ```
+- **🛡️ Password Strength Checker**  
+  A program that analyzes the strength of a password based on length, uppercase/lowercase letters, numbers, and symbols.  
 
-3. **Masukkan teks yang ingin dienkripsi** dan tentukan nilai shift (misalnya 3).
-4. **Hasil enkripsi & dekripsi akan ditampilkan di terminal**.
+## **⚙️ How to Use**  
 
-## 📌 Contoh
-### Input:
-```
-Masukkan teks yang ingin di-encode: Hello, World!
-Masukkan nilai shift: 3
-```
-### Output:
-```
-Hasil Encode: Khoor, Zruog!
-Hasil Decode: Hello, World!
-```
+### **🔧 Clone the Repository**  
+```sh
+git clone https://github.com/yourusername/Project-Python.git
+cd Project-Python
+```  
 
-## 📜 Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
+### **▶️ Run a Project**  
+Navigate to the desired project directory and run the Python script:  
+```sh
+python script.py  
+```  
+
+## **📜 License**  
+This repository is open-source and licensed under the **MIT License**. Feel free to use and modify it as needed. 
