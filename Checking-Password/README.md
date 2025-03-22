@@ -1,8 +1,8 @@
-# 🔐 **Password Strength Checker**  
+# **Password Strength Checker**  
 
 A simple Python program to evaluate the strength of a password based on security criteria.  
 
-## 🚀 **Features**  
+## **Features**  
 - Checks password strength based on:  
   ✅ Length  
   ✅ Uppercase letters  
@@ -11,10 +11,10 @@ A simple Python program to evaluate the strength of a password based on security
   ✅ Symbols  
 - Provides feedback on password security level  
 
-## 📌 **Usage**  
+## **Usage**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/password-checker.git
+   git clone https://github.com/NirxTech/password-checker.git
    cd password-checker
    ```  
 2. Run the script:  
