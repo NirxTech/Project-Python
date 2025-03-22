@@ -15,7 +15,7 @@
 
 ### **🔧 Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/Project-Python.git
+git clone https://github.com/NirxTech/Project-Python.git
 cd Project-Python
 ```  
 
