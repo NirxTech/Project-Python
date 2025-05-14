@@ -21,6 +21,8 @@ Letakkan file berikut dalam folder yang sama dengan script:
 
 ```bash
 python instagram_check.py
+
+
 Hasil akan ditampilkan langsung di terminal/command prompt.
 
 📁 Cara Mendapatkan File JSON dari Instagram
