@@ -25,5 +25,5 @@ Navigate to the desired project directory and run the Python script:
 python script.py  
 ```  
 
-## ** License**  
+## **License**  
 This repository is open-source and licensed under the **MIT License**. Feel free to use and modify it as needed. 
